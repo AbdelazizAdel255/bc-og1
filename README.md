@@ -1,1 +1,2 @@
-# bc-og1
+# Elenore
+Elenore - Multi-use Discord Bot.
